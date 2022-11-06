@@ -118,11 +118,12 @@ header {
 }
 
 .logo {
-    background: url("../images/222695659_4012350428886759_4334578820139672968_n.jpg");
+    background: url("../images/bild.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
+    width:  360px;
+    height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
