@@ -64,7 +64,7 @@
 
 body {
     font-family: Roboto, sans-serif;
-    font-weight: 300;
+    font-weight: 50;
     background-color: #525252;
     color: #555555;
 }
@@ -118,7 +118,7 @@ header {
 }
 
 .logo {
-    background: url("../images/bild.jpg");
+    background: url("../images/222695659_4012350428886759_4334578820139672968_n.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
